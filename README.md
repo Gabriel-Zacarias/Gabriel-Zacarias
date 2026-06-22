@@ -26,7 +26,7 @@ Na **NicNet Fibra Óptica**, atuo em todo o ciclo — de back-ends Laravel com f
 Gosto de arquitetura limpa, impacto direto no produto e melhorar continuamente os sistemas que trabalho.
 
 - 🏢 Atualmente na **NicNet Fibra Óptica** (Maio 2022 – Presente)
-- 🎓 **Ciência da Computação** @ UNIP (conclusão em 2025)
+- 🎓 **Ciência da Computação** @ UNIP (2022 – 2025)
 - 📍 Ribeirão Preto, SP — Brasil
 - 🔍 Aberto a **novas oportunidades** (remoto)
 
