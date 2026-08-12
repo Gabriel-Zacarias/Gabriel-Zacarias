@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou Desenvolvedor Full Stack com **+3 anos** de experiência construindo e mantendo sistemas web em produção real.
+Sou Desenvolvedor Full Stack com **+3 anos** de experiência construindo, escalando e mantendo sistemas web em produção real.
 
 Na **NicNet Fibra Óptica**, atuo em todo o ciclo — de back-ends Laravel com filas assíncronas, APIs RESTful e integrações com ERP, até interfaces modernas em React e sistemas legados em jQuery/Blade.
 
@@ -57,6 +57,8 @@ Gosto de arquitetura limpa, impacto direto no produto e melhorar continuamente o
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?style=flat-square&logo=phpstorm&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
